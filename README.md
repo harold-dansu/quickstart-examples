@@ -1,8 +1,5 @@
 # Quick start examples for Snowplow Deployment
 
-[![Release][release-badge]][release]
-[![License][license-image]][license]
-[![Discourse posts][discourse-image]][discourse]
 
 Examples of how to automate creating a [Snowplow Open Source pipeline](https://github.com/snowplow/snowplow).
 
